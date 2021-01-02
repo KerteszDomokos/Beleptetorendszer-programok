@@ -218,7 +218,7 @@ def main():
     conn.commit()
     conn.close()
     
-
+#előre meghatározott kódokkal egyenlővé tett eseményeket tartalmazó fájl elérési útja
 eleres='D:/kodolt.txt'
 
 file = open (eleres, 'r', encoding='utf8')

@@ -113,3 +113,4 @@ while True:# A folyamatos futás itt zajlik
 
 print("Program vége")
 input("end")
+

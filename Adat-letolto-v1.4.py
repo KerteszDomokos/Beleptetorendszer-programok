@@ -130,3 +130,4 @@ if aw==1:
     
 print("Program vége")
 input("end")
+
