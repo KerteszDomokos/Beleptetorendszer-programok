@@ -1,7 +1,6 @@
 # Beleptetorendszer-full
  A beléptetőrendszer projektem nyilvános programjai, melyeket elsősorban az OTDK miatt tettem közzé.
  A programok a legnagyobb elővigyázatosság ellenére is tartalmazhat személyes információkat, ezeket kérem kezeljék megfelelően.
- \n
  Az Issues rovatba feltehetik a kóddal kapcsolatos esetleges kérdéseket.
  
  *Copyright Kertész Domokos 2021*
